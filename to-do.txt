@@ -3,5 +3,9 @@
  - Open word
  - Close word
  - Wax lyrical about text editors
+<<<<<<< HEAD
  - Pass yer exam
+=======
+ - Pass your exam with a beautiful 41%
+>>>>>>> origin/main
  - Write soem poetry
