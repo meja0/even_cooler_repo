@@ -1,5 +1,7 @@
-- Open word
-- Close word
-- Wax lyrical about text editors
-- Fluke a exam
-- Write soem poetry
+# TODO 
+
+ - Open word
+ - Close word
+ - Wax lyrical about text editors
+ - Fluke a exam
+ - Write soem poetry
