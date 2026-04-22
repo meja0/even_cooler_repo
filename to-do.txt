@@ -3,5 +3,5 @@
  - Open word
  - Close word
  - Wax lyrical about text editors
- - Fluke a exam
+ - Pass yer exam
  - Write soem poetry
