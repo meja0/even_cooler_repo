@@ -4,8 +4,14 @@
  - Close word
  - Wax lyrical about text editors
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
  - Pass yer exam
-=======
+===THIS WEREN'T ME YOU CAN'T TOUCH THIS====
  - Pass your exam with a beautiful 41%
 >>>>>>> origin/main
  - Write soem poetry
